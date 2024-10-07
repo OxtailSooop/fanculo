@@ -1,0 +1,32 @@
+{
+    "normal": [
+        {
+            "activities": [
+                {
+                    "name": "name",
+                    "state": "state",
+                    "type": 3,
+                    "url": "url"
+                }
+            ],
+            "afk": false,
+            "shardId": 0,
+            "status": "online"
+        }
+    ],
+    "maintenance": [
+        {
+            "activities": [
+                {
+                    "name": "name",
+                    "state": "state",
+                    "type": 3,
+                    "url": "url"
+                }
+            ],
+            "afk": false,
+            "shardId": 0,
+            "status": "online"
+        }
+    ] // MAN DOWN, so just man up bro XD
+}

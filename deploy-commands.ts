@@ -1,6 +1,6 @@
 import {
     parseCommandFiles
-} from "./src/utils";
+} from "./src/command";
 
 import {
     Client,
